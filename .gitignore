@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Local compiled program
+playlist
+a.out
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
